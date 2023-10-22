@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @oogabooga5
+- 👋 Hi, I’m @BL1Z33 (also known as oogabooga5)
 - 👀 I’m interested in Python 🐍
 - 🌱 I’m currently learning how to be better at Geometry Dash :P
 - 💞️ I’m not currently looking to collaborate on anything right now
